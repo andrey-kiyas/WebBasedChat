@@ -12,7 +12,7 @@ The order of the client-server:
 
 Multiple instances need to be allowed to run multiple client windows
 
-![img.png](img.png)
+![img.png](https://i.imgur.com/y8P0kzq.jpg)
 
 ---
 
